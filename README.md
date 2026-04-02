@@ -37,7 +37,7 @@ Each flagged transaction is tagged with *which rules triggered*, so every flag i
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/fraud-flag-detector.git
+git clone https://github.com/nishakankaria/fraud-flag-detector.git
 cd fraud-flag-detector
 
 # Install dependencies
